@@ -1,4 +1,4 @@
-#Game Match
+# Game Match
 
 Game Match is a fun take on the popular swiping app tinder where users
 are able to swipe right or left on boardgames instead of people.
