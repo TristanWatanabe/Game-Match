@@ -7,4 +7,4 @@ and once that amount of people have swiped right on the boardgame,
 those individuals are inserted into a group chat where they can talk amongst
 themselves and plan meetups to play boardgames!
 
-App Demo: https://youtu.be/lQlkG0dpKRQ
+## App Demo: https://youtu.be/lQlkG0dpKRQ
